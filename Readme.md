@@ -22,7 +22,7 @@ _Описание проекта NeuroStartUp_:
 
 _Логотип_:
 
-![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+![](https://github.com/Valted-cmd/Git2/blob/ad915bcd6ad1aa07e1edb4cd387c962b5202354e/asserts/logo.png)
 
 ### Задача
 
@@ -38,7 +38,7 @@ _Можете скопировать разметку из подсказки и
 
 **В качестве результата пришлите проверяющему:** 
 1. Ссылку на ваш репозиторий на GitHub;
-1. Ссылку на последний коммит. Для этого на сайте GitHub нажмите на количество коммитов (под кнопкой <kbd>Code</kbd>), нажмите на последний коммит и скопируйте адрес из адресной строки.
+
 
 <details>
     <summary>Подсказка: Markdown-разметка для файла README.md</summary>
@@ -46,7 +46,7 @@ _Можете скопировать разметку из подсказки и
 ```markdown
 # NeuroStartUp
 
-![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+![](https://github.com/Valted-cmd/Git2/blob/ad915bcd6ad1aa07e1edb4cd387c962b5202354e/asserts/logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
@@ -65,7 +65,7 @@ _Можете скопировать разметку из подсказки и
 
 ### Задача
 
-1. Скачайте [по ссылке](https://github.com/netology-code/git-homeworks/raw/master/introduction/src/neuro-startup.zip) архив с проектом.
+1. Скачайте [по ссылке](https://github.com/Valted-cmd/Git2/blob/ad915bcd6ad1aa07e1edb4cd387c962b5202354e/src/neuro-startup.zip) архив с проектом.
 1. Распакуйте из него папку `1.2. Site For Import`.
     * В архиве также лежит скрытая папка `__MACOSX`, её распаковывать не нужно. Вы можете удалить эту папку с вашего компьютера.
 1. Создайте на базе папки `1.2. Site For Import` Git-репозиторий.
